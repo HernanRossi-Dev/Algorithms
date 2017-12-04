@@ -27,6 +27,9 @@ class CountArrayInversionsRecursive {
             Integer[] leftSubArray = array[arrayLength-1 .. arrayLength/2]
             Integer[] rightSubArray = array[(arrayLength/2)-1 .. 0]
             ArrayAndCount leftResult = sortAndCountInv()
+            /**
+             * TODO sort, count inversions and merge the two sub arrays
+             */
 
         }
 
